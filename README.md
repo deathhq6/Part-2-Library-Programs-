@@ -1,6 +1,6 @@
 # 📚 Part 2 — Library Programs
 
-This repository contains my second school project focused on modular programming using Python libraries.
+This repository contains my school project focused on building a basic library application in Python.
 
 > ⚠️ **Important Notice:**  
 > Do **NOT** open this project using **Visual Studio 2026** or **Visual Studio Code**.  
@@ -11,19 +11,18 @@ This repository contains my second school project focused on modular programming
 
 ## 🧠 Project Overview
 
-This project builds on foundational programming concepts and introduces:
-- Python library usage
-- Structured solution file (`.slnx`)
-- Modular file organization
+This project simulates a simple library system for:
+- 📖 Renting books
+- 🛒 Buying books
 
-It’s designed for educational purposes — not for production use.
+It’s built entirely in Python and designed as part of my learning journey in modular programming and application logic.
 
 ---
 
 ## 🧪 Author & Credits
 
 Created by **DEATHHQ** (aka Yazao)  
-Part of my academic journey in programming logic and modular design.
+Part of my academic exploration of Python and structured project design.
 
 Explore more of my work:
 - 🎧 [SoundCloud](https://soundcloud.com/deathhq)
